@@ -4,6 +4,7 @@ https://github.com/user-attachments/assets/bb22b3ab-3c5b-4390-b946-b1faf25ee976
 
 
 
+Demo footage from YouTube (project implementation is similar).
 
 Overview
 
@@ -26,3 +27,4 @@ Setup
  2. Install AR Foundation and required AR packages
  3. Select mobile build platform
  4. Build and run on a supported device
+
